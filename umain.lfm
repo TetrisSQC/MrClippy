@@ -12,7 +12,7 @@ object frmMain: TfrmMain
     Left = 8
     Height = 23
     Top = 8
-    Width = 100
+    Width = 160
     ItemHeight = 15
     OnChange = cbAnimationChange
     Style = csDropDownList
